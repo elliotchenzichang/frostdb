@@ -20,7 +20,7 @@ require (
 	github.com/thanos-io/objstore v0.0.0-20240228103415-c3ccc5d61957
 	go.opentelemetry.io/otel v1.24.0
 	go.opentelemetry.io/otel/trace v1.24.0
-	go.uber.org/goleak v1.2.0
+	go.uber.org/goleak v1.3.0
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d
 	golang.org/x/sync v0.5.0
 	google.golang.org/protobuf v1.32.0
